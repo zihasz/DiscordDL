@@ -1,0 +1,13 @@
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\bin\Release\netcoreapp3.1\DiscordDL.exe
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\bin\Release\netcoreapp3.1\DiscordDL.deps.json
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\bin\Release\netcoreapp3.1\DiscordDL.runtimeconfig.json
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\bin\Release\netcoreapp3.1\DiscordDL.runtimeconfig.dev.json
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\bin\Release\netcoreapp3.1\DiscordDL.dll
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\bin\Release\netcoreapp3.1\DiscordDL.pdb
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\obj\Release\netcoreapp3.1\DiscordDL.AssemblyInfoInputs.cache
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\obj\Release\netcoreapp3.1\DiscordDL.AssemblyInfo.cs
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\obj\Release\netcoreapp3.1\DiscordDL.csproj.CoreCompileInputs.cache
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\obj\Release\netcoreapp3.1\DiscordDL.dll
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\obj\Release\netcoreapp3.1\DiscordDL.pdb
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\obj\Release\netcoreapp3.1\DiscordDL.genruntimeconfig.cache
+C:\Users\ihasz\source\repos\DiscordDL\DiscordDL\obj\Release\netcoreapp3.1\DiscordDL.csprojAssemblyReference.cache
